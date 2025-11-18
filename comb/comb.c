@@ -4,7 +4,7 @@
   
     ### Recursividade - Probabilidade Combinatória ###
     Combinatória: n!/(n-p)! - Escolher elementos
-    Arranjo: n!/p!* - Escolher e organinzar os elementos
+    Arranjo: n!/p!*(n-p)! - Escolher e organinzar os elementos
 
     Uso de funções recursivas
   
